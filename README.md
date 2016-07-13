@@ -1,2 +1,3 @@
 # movieFlix
-rest api and angular js   
+
+*REST API , JSP , AJAX*
